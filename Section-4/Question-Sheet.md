@@ -18,7 +18,7 @@ B. The Document Object Model (DOM) is a platform and language-neutral interface 
 C. The virtual DOM is a programming concept where an ideal, or “virtual”, representation of a UI is kept in memory and synced with the “real” DOM by a library such as ReactDOM
 D. The virtual DOM is an exact replica of the referenced "DOM", having same functionality and structure, which enables good user interface
 
-Answer:
+Answer:D
 
 ------------
 
@@ -54,7 +54,7 @@ B. It is used to contain data or information about the component.
 C. It is the action of reloading the Web page.
 D. It returns the HTML, which is to be displayed in the component.
 
-Answer:
+Answer: C
 
 ------------
 
@@ -66,4 +66,4 @@ B. State provide a way to pass data from one component to another component. Sta
 C. The state is a built-in React object that is used to contain data or information about the component. The state in a component can change over time, and whenever it changes, the component re-renders.
 D. State is a routing library built on top of React, which is used to set values in a React application. 
 
-Answer:
+Answer:D
